@@ -21,3 +21,14 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning about DevOps.
 - 👯 I’m looking to collaborate on DevOps culture and AI OSS projects.
 - 💬 Ask me about Agile Culture.
+### Some tools I have used and I'm familiar with:
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+
+![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
+
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
