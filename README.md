@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![header](https://capsule-render.vercel.app/api?type=transparent&height=300&color=gradient&text=Vinny&reversal=false&textBg=false)
+### Let's connect and have a chat! 🌟
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/vinnymza/)
+### A litle bit about me:
+- 🌱 I’m currently learning about DevOps.
+- 👯 I’m looking to collaborate on DevOps culture and AI OSS projects.
+- 💬 Ask me about Agile Culture.
