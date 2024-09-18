@@ -4,7 +4,8 @@
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/vinnymza/)
 
 ### A litle bit about me:
-- 🌱 I’m currently learning about DevOps and AI.
+- ⛹️ I'm a System Information Engineer with over 10 years in the Software industry, having performed roles as Full-stack Software Developer, Agile Coach, and Engineer Manager.
+- 🌱 I’m learning about DevOps at EducationIT and Machine Learning Specialization at AnyoneAI.
 - 💬 Ask me about Agile Culture.
 
 ### Some tools I have used and I'm familiar with:
